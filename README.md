@@ -8,4 +8,4 @@ i might release dark.py but in beta mode
 Password cracker.py works for all versions
 as long as you do pip3 install pyautogui
 or pip install pyautogui or
-pip3.9 install pyautogui
+pip3.9 install pyautogui.
